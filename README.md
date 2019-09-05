@@ -1,2 +1,2 @@
 # Technidus-Machine-Learning-Competition
-Regression model that predicts a customer's average monthly spendings
+This is an introductory competition to test my understanding of machine learning concepts learnt. For this competition, i will be applying my knowledge about algorithms and modelling to predict customer average spend. Use the customer data provided to create a regression model that predicts a customer's average monthly spend. Ensure you contribute what you've learned in the resources shared.
